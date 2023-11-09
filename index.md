@@ -12,5 +12,8 @@ int main() {
   }
   return 0;
 }
-
 ```
+
+- [ ] Nguyen
+- [x] Nhat
+- [ ] Minh
